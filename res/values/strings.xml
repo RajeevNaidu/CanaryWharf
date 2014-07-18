@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CanaryWharfGuide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Select Interest</string>
+    <string name="drawer_close">Canary Whary Guide</string>
+    <string-array name="options">
+    <item>Restuarants</item>
+    <item>Bars</item>
+    <item>Pubs</item>
+    <item>DLR stations</item>
+    <item>UnderGround Stations</item>
+    <item>ATM</item>
+    <item>Post Offices</item>
+    <item>Banks</item>
+    <item>Super Stores</item>
+    </string-array>
+</resources>

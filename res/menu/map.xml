@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.canarywharfguide.MainActivity" >
+	<item
+        android:id="@+id/action_map"
+        android:icon="@drawable/ic_list"
+        android:showAsAction="always"
+        android:title="Show Map">
+    </item>
+    <item
+        android:id="@+id/action_list"
+        android:icon="@drawable/ic_list"
+        android:showAsAction="always"
+        android:title="Show List">
+    </item>
+</menu>
